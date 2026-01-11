@@ -25,8 +25,9 @@ jobs:
           outputs: |
             dist/snake.svg
         env:
-          SNAKE_COLOR: "#ff4ecd"              # cores
-          SNAKE_GRID_COLOR: "#ff79c6"
+          SNAKE_COLOR: "#ff79c6"
+          SNAKE_BG_COLOR: "#1a1b26"
+          SNAKE_GRID_COLOR: "#7aa2f7"
 
 
       - name: push snake.svg to the output branch
@@ -36,6 +37,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
 
