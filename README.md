@@ -103,6 +103,6 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 
 <div align=center>
 
-  <img src="https://raw.githubusercontent.com/raquelvivi/raquelvivi/output/cobrinha.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/raquelvivi/raquelvivi/output/snake.svg" alt="Snake animation">
   
 </div>
