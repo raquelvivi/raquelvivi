@@ -11,6 +11,7 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 
 💻 Graduanda pelo Instituto Federal do Rio Grande do Norte (IFRN) em Sistemas Para Internet (TSI). 
 <br><br>
+##
 ### 🚀 Tecnologias
 
 ![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/1-repos-per-language.svg)
@@ -94,9 +95,11 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://vivianraquelbatista@gmail.com" target="_blank">
+<a href="mailto:vivianraquelbatista@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
+## 💌 vivianraquelbatista@gmail.com
 
 
 <!--[Linkedin](www.linkedin.com/in/vivian-raquel-28a037215)-->
