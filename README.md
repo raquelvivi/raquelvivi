@@ -101,4 +101,8 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 
 ## 💌 vivianraquelbatista@gmail.com
 
-![Snake animation](https://raw.githubusercontent.com/raquelvivi/raquelvivi/output/github-contribution-grid-snake.gif)
+<div align=center>
+
+  <img src="https://raw.githubusercontent.com/raquelvivi/raquelvivi/output/cobrinha.svg" alt="Snake animation">
+  
+</div>
