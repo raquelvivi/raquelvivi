@@ -101,5 +101,5 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 
 ## 💌 vivianraquelbatista@gmail.com
 
-![Snake animation](https:github.com/raquelvivi/raquelvivi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/raquelvivi/raquelvivi/output/github-contribution-grid-snake.svg)
 <!--[Linkedin](www.linkedin.com/in/vivian-raquel-28a037215)-->
