@@ -1,6 +1,6 @@
 # Olá! Sou Vivian Raquel ✨
 
-Sou desenvolvedora em formação, curiosa por tecnologia e por tudo que envolve criar soluções com código. 
+Sou desenvolvedora Full Stack, curiosa por tecnologia e por tudo que envolve criar soluções com código. 
 Gosto de aprender na prática, explorar novas ferramentas e aproveitar o processo tanto quanto o resultado.
 
 ![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/0-profile-details.svg)
