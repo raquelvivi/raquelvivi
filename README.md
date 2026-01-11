@@ -90,4 +90,13 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 
 ### 📞 Como Me Achar?
 
-[Linkedin](www.linkedin.com/in/vivian-raquel-28a037215)
+<a href="https://www.linkedin.com/in/vivian-raquel-28a037215/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:vivianraquelbatista@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+
+<!--[Linkedin](www.linkedin.com/in/vivian-raquel-28a037215)-->
