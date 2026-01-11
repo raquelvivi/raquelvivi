@@ -21,11 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <div>
-  <img height= "180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raquelvivi&theme=aura">
-</div>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raquelvivi&theme=aura) -->
+![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/3-stats.svg)
+
+
+
+
 
 ### Como Me Achar?
 
