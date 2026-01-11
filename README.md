@@ -5,7 +5,7 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 
 ![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/0-profile-details.svg)
  <!--![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/3-stats.svg)-->
-<br><br>
+
 ### Educação: 
 📓 Tecnico em Tecnologia da Informação (concluido) 
 
@@ -19,7 +19,7 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 #### 🎨 Front-end
 
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Areact"><img alt="react" src="https://img.shields.io/badge/React-f011d2.svg?logo=react&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avue"><img alt="vue" src="https://img.shields.io/badge/Vue-02cc2b.svg?logo=vue.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avue"><img alt="vue" src="https://img.shields.io/badge/Vue-249900.svg?logo=vue.js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AreactNativet"><img alt="reactNativet" src="https://img.shields.io/badge/React%20Native-cc00b1.svg?logo=react&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="html" src="https://img.shields.io/badge/HTML-cc6300.svg?logo=html5&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="css" src="https://img.shields.io/badge/CSS-007ACC.svg?logo=css&logoColor=white"></a>
@@ -34,26 +34,38 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 
 <a href="https://github.com/search?q=user%3Araquelvivi+language%3APostgreSQL"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-5e60ce.svg?logo=postgresql&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Araquelvivi+language%3AMongoDB"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2a9d8f.svg?logo=mongodb&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Araquelvivi+language%3AMySQL"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-457b9d.svg?logo=mysql&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Araquelvivi+language%3AMySQL"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-ffffff.svg?logo=mysql&logoColor=black"></a>
 
 #### 🎤 Linguagens
 
 <a href="https://github.com/search?q=user%3Araquelvivi+language%3AJavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f72585.svg?logo=javascript&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Araquelvivi+language%3ATypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-7209b7.svg?logo=typescript&logoColor=white"></a>
-<a href="https://github.com/search?q=user%3Araquelvivi+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-4cc9f0.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Araquelvivi+language%3APython"><img alt="Python" src="https://img.shields.io/badge/Python-0a8fb0.svg?logo=python&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Araquelvivi+language%3AC%2B%2B"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-3a0ca3.svg?logo=cplusplus&logoColor=white"></a>
 
 #### 🧩 Outros
 
+<a href="https://github.com/search?q=user%3Araquelvivi+linux"><img alt="Linux" src="https://img.shields.io/badge/Linux-3a0ca3.svg?logo=linux&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Araquelvivi+docker"><img alt="Docker" src="https://img.shields.io/badge/Docker-7209b7.svg?logo=docker&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Araquelvivi+iot"><img alt="IoT" src="https://img.shields.io/badge/IoT-f72585.svg?logo=internetofthings&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Araquelvivi+drbd"><img alt="DRBD" src="https://img.shields.io/badge/DRBD-5e60ce.svg?logo=linux&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Araquelvivi+pacemaker"><img alt="Pacemaker" src="https://img.shields.io/badge/Pacemaker-cc6300.svg?logo=linux&logoColor=white"></a>
+
+### 🔎 Projetos interesantes
+
+<a href="https://github.com/raquelvivi/ConnDoct">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=raquelvivi&repo=ConnDoct&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" />
+</a>
+
+<a href="https://github.com/raquelvivi/FixasCaloteiroBack">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=raquelvivi&repo=FixasCaloteiroBack&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" />
+</a>
+
+<a href="https://github.com/raquelvivi/EcoNotificaMobile-IOT">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=raquelvivi&repo=EcoNotificaMobile-IOT&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" />
+</a>
 
 
-
-
-
-
-
-
-
-### Como Me Achar?
+### 📞 Como Me Achar?
 
 [Linkedin](www.linkedin.com/in/vivian-raquel-28a037215)
