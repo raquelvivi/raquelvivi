@@ -89,7 +89,7 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
 </a>
 
 <a href="https://github.com/raquelvivi/FixasCaloteiro">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=raquelvivi&repo=EcoNotificaMobile-IOT&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=raquelvivi&repo=FixasCaloteiro&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" />
 </a>
 
 ### 📞 Como Me Achar?
