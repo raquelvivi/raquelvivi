@@ -1,6 +1,6 @@
 # Olá! Sou Vivian Raquel ✨
 
-Sou desenvolvedora Full Stack, curiosa por tecnologia e por tudo que envolve criar soluções com código. 
+Sou desenvolvedora Full Stack com foco em Back End e dados, curiosa por tecnologia e por tudo que envolve criar soluções com código. 
 Gosto de aprender na prática, explorar novas ferramentas e aproveitar o processo tanto quanto o resultado.
 
 ![](https://raw.githubusercontent.com/raquelvivi/raquelvivi/main/profile-summary-card-output/aura/0-profile-details.svg)
@@ -88,6 +88,9 @@ Gosto de aprender na prática, explorar novas ferramentas e aproveitar o process
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=raquelvivi&repo=EcoNotificaMobile-IOT&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" />
 </a>
 
+<a href="https://github.com/raquelvivi/FixasCaloteiro">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=raquelvivi&repo=EcoNotificaMobile-IOT&bg_color=0d1117&title_color=bb86fc&text_color=c9d1d9&hide_border=true" />
+</a>
 
 ### 📞 Como Me Achar?
 
